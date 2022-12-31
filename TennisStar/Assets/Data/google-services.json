@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32472107621",
+    "project_id": "tennisstar-180fc",
+    "storage_bucket": "tennisstar-180fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32472107621:android:5a6b828f4e3c0907e7548c",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TennisStar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32472107621-gk3fok4u03df3s0vg60po0rspfv0pjrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4zywYio1ompHSGfYFfSVJgq2PW8W_wy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32472107621-gk3fok4u03df3s0vg60po0rspfv0pjrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
